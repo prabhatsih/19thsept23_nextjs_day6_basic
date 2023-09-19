@@ -1,0 +1,2 @@
+# 19thsept23_nextjs_day6_basic
+19thsept23_nextjs_day6_basic
